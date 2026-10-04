@@ -6,7 +6,8 @@ def add(a, b):
 def greet(name):
     """Возвращает приветствие для переданного имени."""
     return f"Hello, {name}!"
-    def multiply(a, b):
+    
+def multiply(a, b):
     """Умножает два числа и возвращает результат."""
     return a * b  # bug нет
 
